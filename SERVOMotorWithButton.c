@@ -1,5 +1,5 @@
 /*
- * lab2.c
+ * lab2.c SERVO motor rotates based on button presses
  *
  * Created: 9/10/18 1:11:56 PM
  * Author : Allie

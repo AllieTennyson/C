@@ -1,5 +1,5 @@
 /*
- * lab2.c
+ * lab2.c Controls SERVO motor to rotate 180 degrees L and R
  *
  * Created: 9/10/18 1:11:56 PM
  * Author : Allie

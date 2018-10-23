@@ -1,6 +1,6 @@
 /*
  * lab3.c
- * Lab 3.3 - Numbered menu, user types in number option. Number outside of scope results in an error message
+ * Lab 3.3 - UART Displays Numbered menu, user types in number option. Number outside of scope results in an error message
  *
  * Created: 9/10/18 1:11:56 PM
  * Author : Allie Tennyson

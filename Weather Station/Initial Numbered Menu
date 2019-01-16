@@ -1,6 +1,7 @@
 /*
  * lab4.c
  * Lab 4.1 - Lab 3.1 but with weather station board
+ * Numbered menu, user types in number option. Number outside of scope results in an error message
  *
  * Created: 10/8/18 1:05:49 PM
  * Author : Allie

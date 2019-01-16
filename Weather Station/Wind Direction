@@ -1,6 +1,6 @@
 /*
  * lab4.c
- * Lab 6 - Use Weather Machine pt. 2
+ * Lab 6 - Use Weather Machine pt. 2 calculates wind direction and outputs in numbered menu
  *
  * Created: 10/18/18 2:15:49 PM
  * Author : Allie
